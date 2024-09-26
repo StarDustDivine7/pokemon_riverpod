@@ -1,0 +1,3 @@
+class ApiConstant {
+  String apiUrl = "";
+}
